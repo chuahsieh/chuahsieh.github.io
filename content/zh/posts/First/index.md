@@ -1,8 +1,6 @@
 ---
-title: Table of content
-date: 2023-05-02
+title: Hello world!
+date: 2024-10-02
 description: Setup table of content in Hugo blog awesome theme
+toc: false
 ---
-## 123
-
-### 123123
